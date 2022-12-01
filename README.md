@@ -9,4 +9,5 @@ I'm particularly interested - and eager to deepen my knowledge - in audio proces
 
 I define myself as an "advanced beginner" and a fast learner: curiosity and flexibility brought me into building a quite heterogeneous educational background, determination and precision allowed me to effectively succeed in that. Challenges excite me, I never take the easy way.
 
-Let's keep in touch: you can find me on [LinkedIn](https://www.linkedin.com/in/ngrvli/), or you can download [here](https://github.com/violangg/violangg/blob/main/Negroni_engCV.pdf) my resume and drop me an email!
+##Let's keep in touch: 
+You can find me on [LinkedIn](https://www.linkedin.com/in/ngrvli/), or you can download [here](https://github.com/violangg/violangg/blob/main/Negroni_engCV.pdf) my resume and drop me an email!
