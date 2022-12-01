@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**violangg/violangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Viola Negroni, I'm from Italy and I am currently pursuing a Master Degree in Music and Acoustic Engineering at the Polytechnic University of Milan.
 
 A creative soul with the mindset of an engineer, I always strived to find a way that could enable these facets of my personality to work together in harmony, until I realized that music was the key.
